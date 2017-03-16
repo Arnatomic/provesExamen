@@ -30,6 +30,9 @@ public class Article {
         this.y = y;
     }
     
-    
+    public void iamArnau(){
+        int superCalcul = 1 +1;
+        System.out.println("1+1="+superCalcul);
+    }
     
 }

@@ -10,5 +10,9 @@ package info.infomila;
  * @author Mr. Robot
  */
 public class Aliment extends Article {
+
+    public Aliment() {
+        super();
+    }
     
 }
